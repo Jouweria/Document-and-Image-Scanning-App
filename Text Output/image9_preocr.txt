@@ -1,0 +1,42 @@
+
+
+Time spent printing Student Reports drastically reduced by using Print
+Conductor Software
+
+® Avoids any issues resulting from merging multiple documents to a single PDF file
+® Full printer options available: double sided printing allowing for more economic use of paper
+® Easy to use interface for staff members, minimal IT support required
+
+Reducing the time Spent Printing Microsoft Office Documents: 400+ Individual Student Report
+Word Documents Required to be printed.
+
+‘The school receptionist was sent a printing job by a Teacher with the following specification:
+
+o print out all of the files contained within multiple folders, double sided on green paper.
+* additional copy of each, on white, for office use.
+
+IT support was tasked with finding a solution that was more efficiént than manually opening and sending each
+document to be printed. Several solutions were explored:
+
+Using windows explorer to select multiple documents>right clicksprint
+“This option still required each document to be opened by the user’s PCand confirmation boxes to be selected.
+
+Merging all documents to a single PDF
+Not all the documents contained an even number of pages, which Would cause issues for double sided printing.
+PDF file size would have also been an issue requiring multiple documents to have been created.
+
+Print Conductor
+
+Provided an easy to use interface, with folder import feature allowing the correct folders to be selected and sent
+to the printer. Allowed access to full printer Settings for preferred print finish. Only manual changing of paper
+colour required.
+
+Print Conductor provides allthe features required to efficiently automate the
+proces$ of batch printing multiple files. Easy to install and incorporate into the
+work flowigf,the school.
+
+Print Conductor is now installed as a permanent solution for our school's receptionist to efficiently batch print any
+requests from staff using the school's main photocopier. This allows time to be freed up for other daily essential
+tasks.
+
+ 

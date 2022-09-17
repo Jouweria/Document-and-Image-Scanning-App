@@ -1,0 +1,52 @@
+Automatic Noise Reduction and Sharpening
+The full auto mode automatically removes digital noise while preserving and
+detail and edges. Several pre-defined presets and manual adjustments are
+
+tune the performance.
+
+This feature is based on the powerful noise reduction engine used m
+adapted to document images. Specific algorithms are included fc
+devices such as Nokia smartphones and iPhone 4.
+
+Brightness Equalization
+
+Brightness equalization automatically reduces brightness:
+by making dark (e.g. printed text) and bright (e.g. white
+mixed lighting conditions such as shots taken in the
+enhance visual quality of images appearing in the d
+
+Brightness and Contrast Correction
+
+Brightness and contrast enhancement automa
+to provide the best image quality. Manual
+
+Adaptive Local Contrast Enhanc
+
+The function makes text and fine det
+without affecting digital noise or in
+fine-tune the performance for di
+
+Cleaning Document Bac
+
+This feature automatically
+texture, dots, lines, as well
+ID cards and passports, ba
+
+Cleaning background be
+increase text recognif
+recognition quality in a v
+
+Whitening document b.
+
+Whitening document backgr
+
+text legibility in scanned docun
+
+white while presenting text charact
+background) or light colors were originally u:
+
+The function can be adjusted for different stren;
+handy when faxing or printing complex documents, as
+significant reduction of transmission time and costs.
+
+I
